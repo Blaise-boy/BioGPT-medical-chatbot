@@ -1,14 +1,3 @@
----
-title: Pediatric Medical Assistant
-emoji: 🩺
-colorFrom: blue
-colorTo: green
-sdk: gradio
-sdk_version: 3.40.0
-app_file: app.py
-pinned: false
-license: mit
----
 
 # 🩺 Pediatric Medical Assistant
 
@@ -93,6 +82,4 @@ This is an educational project. For suggestions or improvements, please reach ou
 - [Hugging Face Transformers](https://huggingface.co/transformers/)
 - [American Academy of Pediatrics](https://www.aap.org/)
 
----
 
-**Remember**: While this AI can provide helpful medical information, it cannot replace the expertise and judgment of trained healthcare professionals. Always prioritize professional medical care for your child's health needs.
