@@ -65,7 +65,7 @@ An AI-powered medical assistant specialized in pediatric healthcare, powered by 
 
 ## 📊 Performance
 
-- **Response Time**: Typically 2-5 seconds
+- **Response Time**: Typically 20-50 seconds
 - **Knowledge Coverage**: Focused on pediatric medicine
 - **Accuracy**: Based on medical literature training data
 - **Availability**: 24/7 through Hugging Face Spaces
